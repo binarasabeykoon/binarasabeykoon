@@ -24,10 +24,10 @@ frameworks.
 
 ## 🙋🏻 About Me 
 
--  <img alt="GIF" src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor and learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
+-  <img alt="GIF" src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently studying at **[NIBM](https://nibm.lk/)** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Working at **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
 - <img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
-- <img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **udaraekanayake.in@gmail.com**<br>
+- <img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **binara.sabeykoon@gmail.com**<br>
 - &nbsp;&nbsp;<img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact :**I play video games , watch English movies , TV-series & animes**.<br>
 
 <br/>
@@ -57,7 +57,7 @@ frameworks.
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/udaraekanayake/github-readme-streak-stats -->
+  <!-- GitHub Readme Streak Stats - https://github.com/binarasabeykoon/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/binarasabeykoon/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="binara's streak" src="https://streak-stats.demolab.com/?user=binarasabeykoon&theme=monokai-metallian&hide_border=true"/>
