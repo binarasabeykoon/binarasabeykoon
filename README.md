@@ -24,23 +24,23 @@ frameworks.
 
 ## 🙋🏻 About Me 
 
--  <img alt="GIF" src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor and learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
-- <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
-- <img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **udaraekanayake.in@gmail.com**<br>
-- &nbsp;&nbsp;<img src="https://github.com/UdaraEkanayake/udaraekanayake/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact :**I play video games , watch English movies , TV-series & animes**.<br>
+-  <img alt="GIF" src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working at **[NIBM](https://nibm.lk/)** as an IT Instructor and learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/binarasabeykoon/binarasabeykoon/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)** <br>
+- <img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; I’m looking to collaborate on **OpenSource Projects**. <br>
+- <img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **udaraekanayake.in@gmail.com**<br>
+- &nbsp;&nbsp;<img src="https://github.com/binarasabeykoon/binarasabeykoon//blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact :**I play video games , watch English movies , TV-series & animes**.<br>
 
 <br/>
 
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 
-<a href="https://github.com/udaraekanayake?tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake&style=plastic" />
+<a href="https://github.com/binarasabeykoon?tab=followers" target="_blank">
+  <img align="center" alt="Binara Abeykoon | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=binarasabeykoon&style=plastic" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/udaraekanayaketab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/binarasabeykoontab=followers" target="_blank">
+  <img align="center" alt="Binara Abeykoon | followers" width="93px" src="https://img.shields.io/github/followers/binarasabeykoon?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
   
@@ -59,8 +59,8 @@ frameworks.
 
   <!-- GitHub Readme Streak Stats - https://github.com/udaraekanayake/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/udaraekanayake/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="udaraekanayake's streak" src="https://streak-stats.demolab.com/?user=udaraekanayake&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/binarasabeykoon/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="binara's streak" src="https://streak-stats.demolab.com/?user=binarasabeykoon&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -68,8 +68,8 @@ frameworks.
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=udaraekanayake&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=binarasabeykoon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=binarasabeykoon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -145,8 +145,8 @@ frameworks.
 <br/>
 
 <p align="center">
-  <a href="https://github.com/udaraekanayake">
-    <img src="data/bottom_header.svg" alt="Udara Ekanayake">
+  <a href="https://github.com/binarasabeykoon">
+    <img src="data/bottom_header.svg" alt="Binara Abeykoon">
   </a>
 </p>
 
