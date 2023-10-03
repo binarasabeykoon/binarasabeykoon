@@ -1,7 +1,7 @@
 ![](udara-master/icons/header_1.png)
 
 <p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Udara%20Ekanayake;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;Gamer%20;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=25" width="100%"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World!;I'm%20Binara%20Abeykoon;Community%20Lead;Open-Source%20Enthusiast;NIBM%20Undergraduate%20👨‍🎓&font=Fira%20Code&center=true&width=440&height=45&color=ff4130&vCenter=true&size=25" width="100%"></a>
 </p>
 
 
