@@ -97,7 +97,6 @@ frameworks.
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## 🖥️ My DevSetup
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=windows&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-%23FFFFFF?style=for-the-badge&logo=brave&logoColor=orange)
 ![VSCode](https://img.shields.io/badge/Vscode-003399?style=for-the-badge&logo=visualstudio&logoColor=blue)
@@ -129,7 +128,7 @@ frameworks.
 ## 👨🏻‍💻 Support me 
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/udara96" target="_blank">
+  <a href="https://www.buymeacoffee.com/binarasabeykoon" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
