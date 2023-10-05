@@ -79,7 +79,7 @@ frameworks.
 
 ## 🎲 Languages and Tools 
 
-![My Skills](https://skillicons.dev/icons?i=git,github,discord,c,cpp,cs,html,css,js,java,azure,docker,eclipse,firebase,linkedin,mysql,php,stackoverflow,visualstudio,vscode,dotnet,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=git,github,discord,c,cpp,cs,html,css,js,java,selenium,azure,docker,eclipse,firebase,linkedin,mysql,php,stackoverflow,visualstudio,vscode,dotnet,androidstudio)
 
 <br/>
 
