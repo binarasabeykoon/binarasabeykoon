@@ -46,7 +46,7 @@ frameworks.
   
 ## 🦖 Holopin Badges 
 
-[![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
+[![An image of @binarasabeykoon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/binarasabeykoon)](https://holopin.io/@binarasabeykoon)
 
 
 ## 👾 Stackoverflow Status 
