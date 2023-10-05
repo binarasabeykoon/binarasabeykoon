@@ -51,7 +51,7 @@ frameworks.
 
 ## 👾 Stackoverflow Status 
 
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=22680449&theme=dark" />
  
 ## 📊 Github Stats and Activity
 
